@@ -1,0 +1,13 @@
+=== Started 2018-02-26T19-05-00-638 ===
+[INFO ][19:05:00] 418 bad words loaded
+[WARN ][19:05:00] User account "Local Administrator" disabled
+[WARN ][19:05:00] User account "Local Moderator" disabled
+[WARN ][19:05:00] User account "Local User" disabled
+[INFO ][19:05:00] 0 user records loaded.
+[INFO ][19:05:00] 0 IP ban records loaded.
+[INFO ][19:05:00] [1m[32mMultiOgar-Edited 1.6.1[37m - An open source multi-protocol ogar server[0m
+[INFO ][19:05:00] WebSocket: ws
+[INFO ][19:05:00] Started stats server on port 88
+[ERROR][19:05:00] WebSocket: EADDRNOTAVAIL - listen EADDRNOTAVAIL 0.0.0.1:443
+[DEBUG][19:05:00] process.exit(1)
+=== Shutdown 2018-02-26T19-05-00-992 ===
